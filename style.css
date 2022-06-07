@@ -47,10 +47,16 @@ header{
        text-decoration: underline!important;
        background-color: rgb(145, 138, 138);
      } 
+     .header-section h3{
+         padding-left: 30px;
+         font-family:cursive;
+         color: rgb(195, 235, 235);
+       
+     }
 
 main{
     grid-area: main;
-    border: 1px solid black;
+   
 }
 .main-section{
     display: grid;
