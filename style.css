@@ -112,7 +112,7 @@ footer{
 footer {
     display: grid;
    padding: 1rem;
-    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr ;
     color: var(--color2);
     list-style: none;
 }
