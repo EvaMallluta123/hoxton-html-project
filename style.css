@@ -81,7 +81,6 @@ main{
     grid-auto-rows: 500px;
     gap: 1rem;
     
-    
 }
 .main-paragraph{
    text-align: center;
@@ -96,24 +95,26 @@ main{
   border: none;
   border-radius: 20px;
   background-color:#5febeb;
+  margin: 20px 0px 20px 20px;
 }
 .main-paragraph a{
     text-decoration: none;
     color: var(--color2);
 }
 .book1{
-   border: 1px solid black;
+   /* border: 1px solid rgb(205, 202, 202); */
 }
 .book1 img{
-     display: grid;
-    margin-left: 90px;
-height: 70vh;
-width: 70%;
+display: grid;
+margin-left: 140px;
+height: 50vh;
+width: 50%;
     
 }
 .book1 h3{
 display: grid;
 place-content: center;
+margin: 10px;
 }
 .book1 p{
     display: grid;
